@@ -25,4 +25,4 @@ I have downloaded the latest version and saved that file in the Microservice Fol
 
 ---
 
-![Admin Server Dashboard](Images/Zipkin.PNG)
+![Zipkin Server Dashboard](Images/Zipkin.PNG)
