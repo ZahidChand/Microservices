@@ -21,6 +21,8 @@ If the application is running on another port, then we need to manually register
 Once the application is up, we can access our Eureka Dashboard at:  
     http://localhost:8761/
 
+![Microservices Architecture](Images/Eureka_Server-Dashboard.PNG)
+
 ---
 
 If you see in this dashboard, one client got registered, which is Eureka itself.
@@ -34,4 +36,7 @@ So to disable that, we need to add the following in the properties file:
 
     eureka.client.register-with-eureka=false
 
-By doing this, it will only act as a server, not a client.
+![Microservices Architecture](Images/Eureka_Server_without_Client.PNG)
+
+
+By doing this, it will only act as a server, not as a client.
