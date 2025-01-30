@@ -14,4 +14,4 @@
 
 
 ---
-![Microservices Architecture](Images/Admin-Server-without-application=registered.PNG)
+![Admin Server Dashboard](Images/Admin-Server-without-application=registered.PNG)
