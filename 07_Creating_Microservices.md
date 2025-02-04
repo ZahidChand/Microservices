@@ -65,6 +65,16 @@ Eureka Server is already running on port 8761, so by default, it will register t
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
 ```
 
+5) Run the application and check in Eureka Server (It should display in Eureka Dashboard)
+
+6) Check Admin Server Dashboard (It should display) (We can  access application details from here)
+	
+	Ex: Beans, loggers, heap dump, thread dump, metrics, mappings etc.
+
+7) Send request to REST API method
+
+8) Check Zipkin Server UI and click on Run Query Button (It will display trace-id with details)
+
 ---
 
 
