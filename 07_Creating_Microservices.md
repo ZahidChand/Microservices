@@ -153,4 +153,16 @@ eureka.client.server-url.defaultZone=http://localhost:8761/eureka/
 ```
 
 
+![Greet Server Dashboard](Images/WELCOME1.PNG)
+
+---
+
+![Greet Admin Server Dashboard](Images/welcome2.PNG)
+
+---
+
+![Greet Zipkin Server Dashboard](Images/welcome3.PNG)
+
+---
+
 
